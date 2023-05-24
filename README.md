@@ -16,4 +16,17 @@ Research and Design Questions:
 - Experimenting with the timeframe factor - whether to consider daily or monthly data makes a difference in the accuracy of the predictions.
 Using automated models/libraries and different methods to find the most accurate predictions.
 
+Future Scope :
+Expand the analysis done for the ‘Beverages’ category to all the other categories.
+Make predictions for all the other categories.
+Built a real time system to intake data and make predictions periodically
+
+References :
+https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080
+https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
+https://xang1234.github.io/prophet/
+https://audhiaprilliant.medium.com/walk-forward-optimization-cross-validation-technique-for-time-series-data-61739f58f2c0
+https://pypi.org/project/fbprophet/
+
+
 

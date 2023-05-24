@@ -23,10 +23,10 @@ Future Scope :
 
 References :
 - https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080
-https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
-https://xang1234.github.io/prophet/
-https://audhiaprilliant.medium.com/walk-forward-optimization-cross-validation-technique-for-time-series-data-61739f58f2c0
-https://pypi.org/project/fbprophet/
+- https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
+- https://xang1234.github.io/prophet/
+- https://audhiaprilliant.medium.com/walk-forward-optimization-cross-validation-technique-for-time-series-data-61739f58f2c0
+- https://pypi.org/project/fbprophet/
 
 
 

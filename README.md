@@ -16,6 +16,15 @@ Research and Design Questions:
 - Experimenting with the timeframe factor - whether to consider daily or monthly data makes a difference in the accuracy of the predictions.
 Using automated models/libraries and different methods to find the most accurate predictions.
 
+Following are few insights of the data:
+
+
+![image](https://github.com/ShefaliL/Time-Series-Analysis-on-Groceries-Data/assets/76598077/483c25d2-680e-476c-b5ac-8684e2e30d58)
+
+
+<img width="903" alt="image" src="https://github.com/ShefaliL/Time-Series-Analysis-on-Groceries-Data/assets/76598077/f0d29664-4779-45b9-a12f-fd03065a5ff0">
+
+
 Future Scope :
 - Expand the analysis done for the ‘Beverages’ category to all the other categories.
 - Make predictions for all the other categories.

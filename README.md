@@ -1,13 +1,13 @@
 # Time-Series-Analysis-on-Groceries-Data
 
-Problem Statement:
+# Problem Statement:
 
 The main objective of the project is to understand the implementation of the time series model and apply it in the groceries data. The dataset that we have chosen contains details of purchase of a variety of grocery items over time & we aim to utilize this dataset to predict the demand for these different products in future. This will help manage inventory and increase efficiency for the distributors. 
 
 The data is originally collected from the Kaggle dataset:
 https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset
 
-Research and Design Questions:
+# Research and Design Questions:
 
 - Are there seasonal or trend-based patterns in customers' purchasing behavior that can be identified and accounted for in a forecasting model?
 - What is the most appropriate forecasting method for this type of data (e.g. time series analysis using ARIMA, SARIMA,SARIMAX), and how can its accuracy be evaluated?
@@ -26,12 +26,12 @@ Following are few insights of the data:
 
 
 
-Future Scope :
+# Future Scope :
 - Expand the analysis done for the ‘Beverages’ category to all the other categories.
 - Make predictions for all the other categories.
 - Built a real time system to intake data and make predictions periodically
 
-References :
+# References :
 - https://tsanggeorge.medium.com/a-semi-auto-way-to-determine-parameters-for-sarima-model-74cdee853080
 - https://towardsdatascience.com/significance-of-acf-and-pacf-plots-in-time-series-analysis-2fa11a5d10a8
 - https://xang1234.github.io/prophet/
